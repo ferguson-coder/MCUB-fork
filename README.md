@@ -75,7 +75,7 @@
 <summary><b>Installation on different systems (click to expand)</b></summary>
 
 #### Ubuntu / Debian
-```bash
+```bash 
 sudo apt update && sudo apt install -y python3 python3-pip git
 git clone https://github.com/hairpin01/MCUB-fork.git && cd MCUB-fork
 pip3 install -r requirements.txt
